@@ -6,3 +6,5 @@ git commit	//commit items in the satging area as the formal version
 git log		//check the commit log
 git status	//check the current modified and stage status
 git reset HEAD <filename>	//remove the file from staging area
+git rm --cached <filename>	//remove the file from commiting
+git diff	//check the modified file
