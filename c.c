@@ -8,3 +8,5 @@ git status	//check the current modified and stage status
 git reset HEAD <filename>	//remove the file from staging area
 git rm --cached <filename>	//remove the file from commiting
 git diff	//check the modified file
+git pull	//pull the items online
+
